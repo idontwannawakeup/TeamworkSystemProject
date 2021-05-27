@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamworkSystemAdoDapper.WebAPI", "TeamworkSystemAdoDapper.WebAPI\TeamworkSystemAdoDapper.WebAPI.csproj", "{AD9D5A5A-C593-438C-A8CE-A8EB9FAF52FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamworkSystemAdoDapper.DataAccessLayer", "TeamworkSystemAdoDapper.DataAccessLayer\TeamworkSystemAdoDapper.DataAccessLayer.csproj", "{27ECAE9E-7A40-46D6-80C4-FB81B6AC59C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9D5A5A-C593-438C-A8CE-A8EB9FAF52FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9D5A5A-C593-438C-A8CE-A8EB9FAF52FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9D5A5A-C593-438C-A8CE-A8EB9FAF52FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9D5A5A-C593-438C-A8CE-A8EB9FAF52FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27ECAE9E-7A40-46D6-80C4-FB81B6AC59C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ECAE9E-7A40-46D6-80C4-FB81B6AC59C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ECAE9E-7A40-46D6-80C4-FB81B6AC59C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ECAE9E-7A40-46D6-80C4-FB81B6AC59C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BC4D105-5E3B-4E0D-963C-895BF672E6A2}
+	EndGlobalSection
+EndGlobal
